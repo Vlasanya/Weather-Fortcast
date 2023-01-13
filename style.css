@@ -107,6 +107,6 @@ body {
     background: #666699;
 }
 .card:hover {
-    cursor: url(../assets/pic/cursor.png), auto;
+    cursor: url(../assets/pic/cursor.svg), auto;
     opacity: 0.7;
 }
